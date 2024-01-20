@@ -48,3 +48,9 @@ Open a browser and go to URL
 
     http://<IP>:5000                            => Welcome
     http://<IP>:5000/how%20are%20you            => I am good, how about you?
+
+
+
+## Regarding building the image
+Difference when building image using ubuntu vs python3.11 slim![image](https://github.com/nightfury000/simple-webapp-flask-revised/assets/83269908/8067aedd-920b-4c4a-8772-4511295d890a)
+
